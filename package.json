@@ -1,0 +1,11 @@
+{
+  "name": "projet_travis",
+  "version": "1.0.0",
+  "description": "sample project test",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "author": "kevin Orsinet",
+  "license": "ISC"
+}
